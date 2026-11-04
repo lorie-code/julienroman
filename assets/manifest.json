@@ -1,0 +1,139 @@
+[
+  {
+    "file": "jr1.webp",
+    "width": 1200,
+    "height": 675,
+    "bytes": 221976,
+    "source": "JR1 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      1200,
+      675
+    ]
+  },
+  {
+    "file": "jr2.webp",
+    "width": 1024,
+    "height": 576,
+    "bytes": 88878,
+    "source": "JR2 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      1024,
+      576
+    ]
+  },
+  {
+    "file": "jr3.webp",
+    "width": 1200,
+    "height": 600,
+    "bytes": 131950,
+    "source": "JR3 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      1200,
+      600
+    ]
+  },
+  {
+    "file": "jr4.webp",
+    "width": 1290,
+    "height": 860,
+    "bytes": 115502,
+    "source": "JR4 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      1290,
+      860
+    ]
+  },
+  {
+    "file": "jr5.webp",
+    "width": 930,
+    "height": 680,
+    "bytes": 99280,
+    "source": "JR5 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      930,
+      680
+    ]
+  },
+  {
+    "file": "jr6.webp",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 136654,
+    "source": "JR6 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      1024,
+      1024
+    ]
+  },
+  {
+    "file": "jr7.webp",
+    "width": 640,
+    "height": 600,
+    "bytes": 39866,
+    "source": "JR7 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      640,
+      600
+    ]
+  },
+  {
+    "file": "jr8.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 18888,
+    "source": "JR8 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      512,
+      512
+    ]
+  },
+  {
+    "file": "jr9.webp",
+    "width": 1600,
+    "height": 1103,
+    "bytes": 45394,
+    "source": "JR9 - Adrien Choussat.jpeg",
+    "sourceDimensions": [
+      2040,
+      1406
+    ]
+  },
+  {
+    "file": "jr3-studio-detail.webp",
+    "width": 840,
+    "height": 600,
+    "crop": [
+      360,
+      0,
+      1200,
+      600
+    ],
+    "source": "JR3 - Adrien Choussat.jpeg",
+    "bytes": 102794
+  },
+  {
+    "file": "jr-signature.png",
+    "width": 141,
+    "height": 93,
+    "source": "JR9 - Adrien Choussat.jpeg",
+    "sourceCrop": [
+      1780,
+      330,
+      1990,
+      448
+    ],
+    "alphaBound": [
+      39,
+      32,
+      168,
+      113
+    ],
+    "bytes": 3772
+  },
+  {
+    "file": "weex-logo.png",
+    "width": 134,
+    "height": 28,
+    "source": "Existing WEEX transparent yellow wordmark"
+  }
+]
